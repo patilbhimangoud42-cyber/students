@@ -1,6 +1,6 @@
 import pytest
 
-from student_grade import calculate_grade
+from student import calculate_grade
 
 
 def test_grade_s():
